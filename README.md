@@ -6,5 +6,5 @@
 Файлы для компиляции не предусмотрены.
 
 # Запуск
-Исполняемый файл находится по следующему пути: /Task1CircularBuffer/x64/Debug/Task1CircularBuffer.exe
+Исполняемый файл находится по пути: /Task1CircularBuffer/x64/Debug/Task1CircularBuffer.exe
 При запуске он выведет результаты юнит-тестов, реализованных с использованием библиотеки Google Test.
