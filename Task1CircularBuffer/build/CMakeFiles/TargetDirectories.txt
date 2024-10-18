@@ -1,0 +1,4 @@
+F:/VScode/NSU/OOP/task1Projects/Task1CircularBuffer/build/CMakeFiles/CircularBufferTest.dir
+F:/VScode/NSU/OOP/task1Projects/Task1CircularBuffer/build/CMakeFiles/RUN_TESTS.dir
+F:/VScode/NSU/OOP/task1Projects/Task1CircularBuffer/build/CMakeFiles/ALL_BUILD.dir
+F:/VScode/NSU/OOP/task1Projects/Task1CircularBuffer/build/CMakeFiles/ZERO_CHECK.dir

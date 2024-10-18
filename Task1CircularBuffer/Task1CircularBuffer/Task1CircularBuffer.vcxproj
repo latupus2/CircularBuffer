@@ -129,7 +129,6 @@
   <ItemGroup>
     <ClCompile Include="CircularBuffer.cpp" />
     <ClCompile Include="CircularBufferTests.cpp" />
-    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CircularBuffer.h" />

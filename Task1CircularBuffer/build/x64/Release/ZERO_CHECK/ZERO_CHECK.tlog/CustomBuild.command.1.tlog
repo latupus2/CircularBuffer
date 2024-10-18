@@ -1,0 +1,10 @@
+^F:\VSCODE\NSU\OOP\TASK1PROJECTS\TASK1CIRCULARBUFFER\BUILD\CMAKEFILES\1E3C89EEAC15EA223F7BE4976B1DB412\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SF:/VScode/NSU/OOP/task1Projects/Task1CircularBuffer -BF:/VScode/NSU/OOP/task1Projects/Task1CircularBuffer/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file F:/VScode/NSU/OOP/task1Projects/Task1CircularBuffer/build/Task1CircularBuffer.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
