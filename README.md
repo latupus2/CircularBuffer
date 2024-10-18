@@ -5,5 +5,8 @@
 В репозиторий загружена папка с полным проектом `Visual Studio`.  
 
 # Запуск
-Исполняемый файл находится по пути: `/Task1CircularBuffer/x64/Debug/Task1CircularBuffer.exe`  
+Исполняемый файл находится по пути: `/Task1CircularBuffer/build/Relese/CircularBufferTest.exe`  
 При запуске он выведет результаты юнит-тестов, реализованных с использованием библиотеки Google Test.
+
+# Сборка
+Для сборки проекта был добавлен файл `CMakeLists.txt`
